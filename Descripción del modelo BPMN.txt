@@ -1,0 +1,11 @@
+## Descripción del proceso
+
+El proceso comienza cuando el sector que requiere realizar una tarea solicita su ejecución a un contratista o personal tercerizado capacitado para llevarla a cabo. Para iniciar los trabajos, el contratista deberá contar con un permiso de trabajo autorizado tanto por Higiene y Seguridad (HyS) como por el responsable del sector donde se realizará la tarea.
+
+Si el contratista dispone de un permiso anterior que pueda reutilizar o renovar, podrá continuar directamente con la presentación del permiso ante HyS. Este sector evaluará la viabilidad de la tarea desde el punto de vista de la seguridad. Si el permiso no es aprobado, se descartará y archivará, dejando constancia de que la tarea no fue realizada. En caso de ser aprobado, el contratista presentará el permiso al responsable del sector de planta correspondiente para su evaluación.
+
+El responsable del sector verificará si existen impedimentos para ejecutar el trabajo, como la presencia de líneas de producción en funcionamiento, tareas de limpieza en curso u otras condiciones que puedan interferir con su realización. Si existen impedimentos, se evaluará la posibilidad de modificar las condiciones actuales para habilitar el trabajo, por ejemplo, esperando a que finalice una actividad o liberando el espacio necesario. Si no es posible habilitar la tarea, esta no podrá ejecutarse en las condiciones actuales. Si puede realizarse de manera inmediata o después de una espera, el supervisor del área firmará el permiso y autorizará la ejecución del trabajo.
+
+Una vez finalizada la tarea, el supervisor inspeccionará el trabajo realizado e identificará las correcciones necesarias. El contratista deberá resolver las observaciones dentro de sus posibilidades y de acuerdo con el alcance de la tarea. Una vez atendidas las correcciones, se procederá al cierre del permiso, que podrá ser diario, si los trabajos deben continuar, o general, si la tarea ha finalizado definitivamente.
+
+El permiso será entregado a HyS, que completará el cierre correspondiente en el apartado de autorización. Si no es necesario continuar con los trabajos, HyS conservará y archivará el permiso. En cambio, si la tarea debe continuar, devolverá el permiso al personal tercerizado para que pueda utilizarlo en la siguiente jornada o etapa de trabajo.
